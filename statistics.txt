@@ -1,0 +1,36 @@
+Number of commit objects  = 422
+---------------------------------
+Average user occurrences
+
+Number of active contributors = 10
+
+Average of  Thomas 19.1
+Average of  Jimmy 15.2
+Average of  Vincent 2.6
+Average of  /OU=Domain Control Validated/CN=svn.company.net 2.4
+Average of  ajon0002 0.9
+Average of  Freddie 0.7
+Average of  Nicky 0.5
+Average of  Alan 0.5
+Average of  Dave 0.2
+Average of  murari.krishnan 0.1
+
+Most contributor is  Thomas 
+---------------------------------------------------------------
+
+Average number of lines per commit = 7.450236966824645
+---------------------------------------------------------------
+
+Average months 
+Average occurrences of Jan is 0
+Average occurrences of Feb is 0
+Average occurrences of Mar is 0
+Average occurrences of Apr is 0
+Average occurrences of May is 0
+Average occurrences of Jun is 0
+Average occurrences of Jul is 8.5
+Average occurrences of Aug is 6.916666666666667
+Average occurrences of Sep is 3.6666666666666665
+Average occurrences of Oct is 8.083333333333334
+Average occurrences of Nov is 8.0
+Average occurrences of Dec is 0
